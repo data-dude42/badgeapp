@@ -1,0 +1,8 @@
+name: badge_app
+description: A Flutter app that provides badges for achievements.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  flutter_badges: ^2.0.3
